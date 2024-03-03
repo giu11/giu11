@@ -7,7 +7,7 @@ Maker and student
 I've been passionate about computers and electronics since I was I child. Now I'm a maker and I co-founded @P40P
 
 * 🌍  I'm based in Torre del Greco
-* 🖥️  See my portfolio at [My website](http://https://sites.google.com/adrianotilgher.gov.it/fisicasmart/home-page)
+* 🖥️  See my portfolio at [My website](https://giu11.github.io/site/)
 * ✉️  You can contact me at [giu.work11@gmail.com](mailto:giu.work11@gmail.com)
 * 🚀  I'm currently working on [RoboButts by Project 40](http://https://linktr.ee/project40p)
 * 🧠  I'm learning Computer vision and AI
